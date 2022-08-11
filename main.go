@@ -6,7 +6,8 @@ import (
 	"os"
 	rt "runtime"
 
-	"github.com/jkstack/ctagent/core"
+	"ctagent/core"
+
 	agent "github.com/jkstack/libagent"
 )
 

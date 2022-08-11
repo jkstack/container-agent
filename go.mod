@@ -1,11 +1,11 @@
-module github.com/jkstack/ctagent
+module ctagent
 
 go 1.17
 
 require (
 	github.com/jkstack/anet v0.0.0-20220805084406-b2b99e224f87
-	github.com/jkstack/jkframe v1.0.5
-	github.com/jkstack/libagent v0.0.0-20220809090153-7eacf7de833f
+	github.com/jkstack/jkframe v1.0.6
+	github.com/jkstack/libagent v1.0.1
 )
 
 require (
